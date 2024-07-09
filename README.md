@@ -1,2 +1,2 @@
-# unicafe
-exercises 1.6-1.11
+# anecdotes
+exercises 1.12-1.14
