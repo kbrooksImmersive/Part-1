@@ -1,5 +1,2 @@
-# Fullstack course Part 1
-Branches for:
-- courseinfo
-- unicafe
-- anecdotes
+# courseinfo
+exercises 1.1-1.5
